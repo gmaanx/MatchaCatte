@@ -8,7 +8,7 @@ Em chào thầy,
 | STT | Họ và tên | MSSV | Nhiệm vụ |
 | :---: | :--- | :--- | :--- |
 | 1 | Trâm Anh | 31251025969 | Chuẩn bị hình ảnh, âm thanh và dựng video |
-| 2 | Gia Mẫn | 31251021092 | Code luật chơi chính (GameManager, Card...), tổng hợp code |
+| 2 | Gia Mẫn (Nhóm trưởng) | 31251021092 | Code luật chơi chính (GameManager, Card...), tổng hợp code |
 | 3 | Huỳnh Triết | 31251021291 | Code các class Bot (Bot khó, Bot dễ...) và Player |
 | 4 | Tấn Thịnh | 31251023212 | Code xử lý hiển thị giao diện, hiệu ứng đánh bài |
 
