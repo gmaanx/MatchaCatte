@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: 5f07f2a8117481149be455ea67a6bfe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4498108325450047585
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_0
+  - first:
+      213: -7181762870752606276
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_1
+  - first:
+      213: -1671797408411881327
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_2
+  - first:
+      213: 1113092414436323546
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_3
+  - first:
+      213: 5173565255466981063
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_4
+  - first:
+      213: -5124044517130166601
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_5
+  - first:
+      213: 4246164336967438916
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_6
+  - first:
+      213: 6166432733782596589
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_7
+  - first:
+      213: 2264227621616009817
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_8
+  - first:
+      213: 8842161788207725883
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_9
+  - first:
+      213: 2882310427511178120
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_10
+  - first:
+      213: 5946168827620780049
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_11
+  - first:
+      213: -6287363700422137603
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_12
+  - first:
+      213: -4245092506405902895
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_13
+  - first:
+      213: 6179334608124557717
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_14
+  - first:
+      213: -6537748332032952214
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_15
+  - first:
+      213: -2407678128377296048
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_16
+  - first:
+      213: 107127831329375480
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_17
+  - first:
+      213: -3897724545629738635
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_18
+  - first:
+      213: -6708280580492190395
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_19
+  - first:
+      213: 8325874568782220939
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_20
+  - first:
+      213: 3960705185135116838
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_21
+  - first:
+      213: -8353610849642218581
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_22
+  - first:
+      213: 7984897899507525631
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_23
+  - first:
+      213: 9001881310639187675
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_24
+  - first:
+      213: 818060079982435104
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_25
+  - first:
+      213: -8521814074752438325
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_26
+  - first:
+      213: 5039891937117283519
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_27
+  - first:
+      213: 5022256272755141800
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_28
+  - first:
+      213: -4924688667404083854
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_29
+  - first:
+      213: 4946663338939935507
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_30
+  - first:
+      213: -9088353447716011776
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_31
+  - first:
+      213: -1870098058377848975
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_32
+  - first:
+      213: 6866224351491905733
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_33
+  - first:
+      213: -1971017457212234794
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_34
+  - first:
+      213: 3600040420674485221
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_35
+  - first:
+      213: -6691634049088819252
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_36
+  - first:
+      213: -6134482453161094340
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_37
+  - first:
+      213: 3949282246179190215
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_38
+  - first:
+      213: -3207739578782759812
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_39
+  - first:
+      213: -5715702306322448023
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_40
+  - first:
+      213: 28263148461305449
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_41
+  - first:
+      213: -90792949500800272
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_42
+  - first:
+      213: 8049025577403209555
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_43
+  - first:
+      213: -852990048333468155
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_44
+  - first:
+      213: -441925567301211444
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_45
+  - first:
+      213: -7820729733956632540
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_46
+  - first:
+      213: 4338304841771442285
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_47
+  - first:
+      213: -8694067312608821830
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_48
+  - first:
+      213: 2385093872502519342
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_49
+  - first:
+      213: 8774355249607669323
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_50
+  - first:
+      213: 5830154469697243620
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_51
+  - first:
+      213: -2991285823043602772
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_52
+  - first:
+      213: -8810480836811945887
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_53
+  - first:
+      213: -4206470958047538637
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_54
+  - first:
+      213: 7252384215235460212
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_55
+  - first:
+      213: 7069964720069712649
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_56
+  - first:
+      213: -4875662943496057633
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_57
+  - first:
+      213: 2352019689120391297
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_58
+  - first:
+      213: -796186609578303957
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_59
+  - first:
+      213: 5191095716289292317
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_60
+  - first:
+      213: -8147834667965778308
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_61
+  - first:
+      213: -6578134878371628440
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_62
+  - first:
+      213: 7022790109220270929
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_63
+  - first:
+      213: 321648925139266058
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_64
+  - first:
+      213: -1266762214590072132
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_65
+  - first:
+      213: 2780675836669523306
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_66
+  - first:
+      213: 2962220117512206451
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_67
+  - first:
+      213: -3149389506922732149
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_68
+  - first:
+      213: -7489589057144699345
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_69
+  - first:
+      213: 7481127628904471003
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_70
+  - first:
+      213: 567456547074556889
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_71
+  - first:
+      213: -6795847178748859960
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_72
+  - first:
+      213: 5524538660742266807
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_73
+  - first:
+      213: 3546279602641027867
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_74
+  - first:
+      213: -4162849089954791718
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_75
+  - first:
+      213: -8815115881727946735
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_76
+  - first:
+      213: -543239566944515656
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_77
+  - first:
+      213: 2002046166664158225
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_78
+  - first:
+      213: 6744438130942796010
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_79
+  - first:
+      213: 5480134966664677564
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_80
+  - first:
+      213: -6135352833576682875
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_81
+  - first:
+      213: 255726137411123657
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_82
+  - first:
+      213: 48191744415445651
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_83
+  - first:
+      213: 7038885931659351151
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_84
+  - first:
+      213: 3083180083641420004
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_85
+  - first:
+      213: -2893885870671217259
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_86
+  - first:
+      213: -6921368140339457227
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_87
+  - first:
+      213: 3541593797675931948
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_88
+  - first:
+      213: -6175731591844441132
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_89
+  - first:
+      213: 6482284380072109567
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_90
+  - first:
+      213: 7177321318047680399
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_91
+  - first:
+      213: -9084677259277411198
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_92
+  - first:
+      213: -1528259169888837901
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_93
+  - first:
+      213: 8340458397349159704
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_94
+  - first:
+      213: 1478972179128501753
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_95
+  - first:
+      213: 8975962071503557508
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_96
+  - first:
+      213: 4923112500594169692
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_97
+  - first:
+      213: 6154210941068545370
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_98
+  - first:
+      213: 7948326838774288466
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_99
+  - first:
+      213: 8706827430819405853
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_100
+  - first:
+      213: -3759671617256838976
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_101
+  - first:
+      213: 246437318056322729
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_102
+  - first:
+      213: -898640706869715180
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_103
+  - first:
+      213: -8340628479548203481
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_104
+  - first:
+      213: -7004794116484240151
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_105
+  - first:
+      213: 2721332328057410502
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_106
+  - first:
+      213: -2004719582620742261
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_107
+  - first:
+      213: -4941173912724473752
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_108
+  - first:
+      213: 7770911795676026712
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_109
+  - first:
+      213: -4261681108342616036
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_110
+  - first:
+      213: -6177273697552613811
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_111
+  - first:
+      213: -799516278892610735
+    second: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 807
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f925c5f428391c0800000000000000
+      internalID: -4498108325450047585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 809
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb783bb38b0455c90800000000000000
+      internalID: -7181762870752606276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 807
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f0375d159cc8e0800000000000000
+      internalID: -1671797408411881327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 807
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b8ac47af727f00800000000000000
+      internalID: 1113092414436323546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 807
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6996a60323cc740800000000000000
+      internalID: 5173565255466981063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be1b27f8acb3e8b0800000000000000
+      internalID: -5124044517130166601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44250e2a7f76dea30800000000000000
+      internalID: 4246164336967438916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd37476e1939550800000000000000
+      internalID: 6166432733782596589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952cc0586072c6f10800000000000000
+      internalID: 2264227621616009817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d77a07c4ba5ba70800000000000000
+      internalID: 8842161788207725883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883453c0016000820800000000000000
+      internalID: 2882310427511178120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11866d86b09058250800000000000000
+      internalID: 5946168827620780049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df827aeb60cceb8a0800000000000000
+      internalID: -6287363700422137603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e00d5bd66615c0800000000000000
+      internalID: -4245092506405902895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ba89261861c550800000000000000
+      internalID: 6179334608124557717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68f54ec7804545a0800000000000000
+      internalID: -6537748332032952214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b0898af75369ed0800000000000000
+      internalID: -2407678128377296048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 709
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f402fbe1389c7100800000000000000
+      internalID: 107127831329375480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792b614d2088e9c0800000000000000
+      internalID: -3897724545629738635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9c12aa5667e2a0800000000000000
+      internalID: -6708280580492190395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e09b4dec27b8370800000000000000
+      internalID: 8325874568782220939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c604916047f630800000000000000
+      internalID: 3960705185135116838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf93b0133021c80800000000000000
+      internalID: -8353610849642218581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a8e3755e00de60800000000000000
+      internalID: 7984897899507525631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd660e6ab5b1dec70800000000000000
+      internalID: 9001881310639187675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd748fe455a5b00800000000000000
+      internalID: 818060079982435104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfe470ef3f6cb980800000000000000
+      internalID: -8521814074752438325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_27
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb42b3aa30b41f540800000000000000
+      internalID: 5039891937117283519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac2c849873a2b540800000000000000
+      internalID: 5022256272755141800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ddcf5cfbdf7abb0800000000000000
+      internalID: -4924688667404083854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_30
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 611
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b66f4291416a440800000000000000
+      internalID: 4946663338939935507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c0b301beafd180800000000000000
+      internalID: -9088353447716011776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779d3f59b31c06e0800000000000000
+      internalID: -1870098058377848975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8dfca3baab94f50800000000000000
+      internalID: 6866224351491905733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d365c8c01a85a4e0800000000000000
+      internalID: -1971017457212234794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebb95350b9e5f130800000000000000
+      internalID: 3600040420674485221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_36
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe621494a8223a0800000000000000
+      internalID: -6691634049088819252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c335772f5b0fddaa0800000000000000
+      internalID: -6134482453161094340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c57449574baec630800000000000000
+      internalID: 3949282246179190215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7441b239d1db73d0800000000000000
+      internalID: -3207739578782759812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_40
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96105c5190fbda0b0800000000000000
+      internalID: -5715702306322448023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_41
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e254c0f29646000800000000000000
+      internalID: 28263148461305449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f215e02b407dbef0800000000000000
+      internalID: -90792949500800272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 513
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d629fd12e3bf60800000000000000
+      internalID: 8049025577403209555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee32402129924f0800000000000000
+      internalID: -852990048333468155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca29d7b907fdd9f0800000000000000
+      internalID: -441925567301211444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4200e233ebf277390800000000000000
+      internalID: -7820729733956632540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e42da441c43c30800000000000000
+      internalID: 4338304841771442285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdbd92a7d7785780800000000000000
+      internalID: -8694067312608821830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2639728d3e891120800000000000000
+      internalID: 2385093872502519342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f2f96c95c4c970800000000000000
+      internalID: 8774355249607669323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9c5f7c99ed8e050800000000000000
+      internalID: 5830154469697243620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_52
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f2d77461dc76d0800000000000000
+      internalID: -2991285823043602772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168007ddb52eab580800000000000000
+      internalID: -8810480836811945887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332549353fc9f95c0800000000000000
+      internalID: -4206470958047538637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_55
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c72cbd405a5a460800000000000000
+      internalID: 7252384215235460212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_56
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 415
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b9c42647f8d1260800000000000000
+      internalID: 7069964720069712649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 396
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc160a26a265cb0800000000000000
+      internalID: -4875662943496057633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 398
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180eeba127d04a020800000000000000
+      internalID: 2352019689120391297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 396
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e99293f7063f4f0800000000000000
+      internalID: -796186609578303957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 396
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a974ec0a7a0840800000000000000
+      internalID: 5191095716289292317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76794fd9831dee80800000000000000
+      internalID: -8147834667965778308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3d0a3e25c5b4a0800000000000000
+      internalID: -6578134878371628440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15373306566f57160800000000000000
+      internalID: 7022790109220270929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aef454ef9b67400800000000000000
+      internalID: 321648925139266058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbab8783a7e8b6ee0800000000000000
+      internalID: -1266762214590072132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65f238d0f1f69620800000000000000
+      internalID: 2780675836669523306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b4da908beb1920800000000000000
+      internalID: 2962220117512206451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_68
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85278cfdee1b44d0800000000000000
+      internalID: -3149389506922732149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26cc3f1f62af0890800000000000000
+      internalID: -7489589057144699345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9163811fd42d760800000000000000
+      internalID: 7481127628904471003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d349d919b200e700800000000000000
+      internalID: 567456547074556889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_72
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c965d23ffc40b1a0800000000000000
+      internalID: -6795847178748859960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_73
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 298
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf747544aa1bac40800000000000000
+      internalID: 5524538660742266807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c1a5728ae63130800000000000000
+      internalID: 3546279602641027867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebfa3fec69a36c0800000000000000
+      internalID: -4162849089954791718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11093bf5fca6aa580800000000000000
+      internalID: -8815115881727946735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c558fd760678f0800000000000000
+      internalID: -543239566944515656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c13fb9162b8cb10800000000000000
+      internalID: 2002046166664158225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e17c1fbe099d50800000000000000
+      internalID: 6744438130942796010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ce3997b95d0c40800000000000000
+      internalID: 5480134966664677564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab9f6ba19dadaa0800000000000000
+      internalID: -6135352833576682875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_82
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c93c2c21958c8300800000000000000
+      internalID: 255726137411123657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_83
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923dfed2263ba000800000000000000
+      internalID: 48191744415445651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_84
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64dc0316752fa160800000000000000
+      internalID: 7038885931659351151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_85
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8810063f7a9ca20800000000000000
+      internalID: 3083180083641420004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_86
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 200
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbe12122ad6d7d0800000000000000
+      internalID: -2893885870671217259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5335c5be85c52ff90800000000000000
+      internalID: -6921368140339457227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2953397bc4462130800000000000000
+      internalID: 3541593797675931948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d354ff66d46b4aa0800000000000000
+      internalID: -6175731591844441132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_90
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e24f8c43b5f950800000000000000
+      internalID: 6482284380072109567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87021136b7fa9360800000000000000
+      internalID: 7177321318047680399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_92
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c53b55a2ebce180800000000000000
+      internalID: -9084677259277411198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_93
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feda0ec1688acae0800000000000000
+      internalID: -1528259169888837901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813abe509b24fb370800000000000000
+      internalID: 8340458397349159704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_95
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c3a96c5d568410800000000000000
+      internalID: 1478972179128501753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_96
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483595582f5019c70800000000000000
+      internalID: 8975962071503557508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_97
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57533b4cb8625440800000000000000
+      internalID: 4923112500594169692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_98
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d86379e36286550800000000000000
+      internalID: 6154210941068545370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_99
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 102
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25058d7d5212e4e60800000000000000
+      internalID: 7948326838774288466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d102e96ea6dd4d870800000000000000
+      internalID: 8706827430819405853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_101
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a94d6596f2dbc0800000000000000
+      internalID: -3759671617256838976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a5226f658b6300800000000000000
+      internalID: 246437318056322729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f135ec9036783f0800000000000000
+      internalID: -898640706869715180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_104
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ed501a692204c80800000000000000
+      internalID: -8340628479548203481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_105
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ece5323dd8f9ce90800000000000000
+      internalID: -7004794116484240151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c316a9855d14c520800000000000000
+      internalID: 2721332328057410502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_107
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d0f9b392ecd24e0800000000000000
+      internalID: -2004719582620742261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_108
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86871ae718c6d6bb0800000000000000
+      internalID: -4941173912724473752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_109
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857992a2b13d7db60800000000000000
+      internalID: 7770911795676026712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_110
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10de3f7c977bd4c0800000000000000
+      internalID: -4261681108342616036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_111
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e3309fc4ae54aa0800000000000000
+      internalID: -6177273697552613811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_112
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb67c2e2c87e4f0800000000000000
+      internalID: -799516278892610735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_0: -4498108325450047585
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_1: -7181762870752606276
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_10: 2882310427511178120
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_100: 8706827430819405853
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_101: -3759671617256838976
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_102: 246437318056322729
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_103: -898640706869715180
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_104: -8340628479548203481
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_105: -7004794116484240151
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_106: 2721332328057410502
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_107: -2004719582620742261
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_108: -4941173912724473752
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_109: 7770911795676026712
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_11: 5946168827620780049
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_110: -4261681108342616036
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_111: -6177273697552613811
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_112: -799516278892610735
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_12: -6287363700422137603
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_13: -4245092506405902895
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_14: 6179334608124557717
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_15: -6537748332032952214
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_16: -2407678128377296048
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_17: 107127831329375480
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_18: -3897724545629738635
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_19: -6708280580492190395
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_2: -1671797408411881327
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_20: 8325874568782220939
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_21: 3960705185135116838
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_22: -8353610849642218581
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_23: 7984897899507525631
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_24: 9001881310639187675
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_25: 818060079982435104
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_26: -8521814074752438325
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_27: 5039891937117283519
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_28: 5022256272755141800
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_29: -4924688667404083854
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_3: 1113092414436323546
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_30: 4946663338939935507
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_31: -9088353447716011776
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_32: -1870098058377848975
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_33: 6866224351491905733
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_34: -1971017457212234794
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_35: 3600040420674485221
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_36: -6691634049088819252
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_37: -6134482453161094340
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_38: 3949282246179190215
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_39: -3207739578782759812
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_4: 5173565255466981063
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_40: -5715702306322448023
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_41: 28263148461305449
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_42: -90792949500800272
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_43: 8049025577403209555
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_44: -852990048333468155
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_45: -441925567301211444
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_46: -7820729733956632540
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_47: 4338304841771442285
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_48: -8694067312608821830
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_49: 2385093872502519342
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_5: -5124044517130166601
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_50: 8774355249607669323
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_51: 5830154469697243620
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_52: -2991285823043602772
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_53: -8810480836811945887
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_54: -4206470958047538637
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_55: 7252384215235460212
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_56: 7069964720069712649
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_57: -4875662943496057633
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_58: 2352019689120391297
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_59: -796186609578303957
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_6: 4246164336967438916
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_60: 5191095716289292317
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_61: -8147834667965778308
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_62: -6578134878371628440
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_63: 7022790109220270929
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_64: 321648925139266058
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_65: -1266762214590072132
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_66: 2780675836669523306
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_67: 2962220117512206451
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_68: -3149389506922732149
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_69: -7489589057144699345
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_7: 6166432733782596589
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_70: 7481127628904471003
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_71: 567456547074556889
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_72: -6795847178748859960
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_73: 5524538660742266807
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_74: 3546279602641027867
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_75: -4162849089954791718
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_76: -8815115881727946735
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_77: -543239566944515656
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_78: 2002046166664158225
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_79: 6744438130942796010
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_8: 2264227621616009817
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_80: 5480134966664677564
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_81: -6135352833576682875
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_82: 255726137411123657
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_83: 48191744415445651
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_84: 7038885931659351151
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_85: 3083180083641420004
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_86: -2893885870671217259
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_87: -6921368140339457227
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_88: 3541593797675931948
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_89: -6175731591844441132
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_9: 8842161788207725883
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_90: 6482284380072109567
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_91: 7177321318047680399
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_92: -9084677259277411198
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_93: -1528259169888837901
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_94: 8340458397349159704
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_95: 1478972179128501753
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_96: 8975962071503557508
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_97: 4923112500594169692
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_98: 6154210941068545370
+      balatro__the_main_deck___high_contrast__69x93_px__by_advancedfan2020_dkdtby8_99: 7948326838774288466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
