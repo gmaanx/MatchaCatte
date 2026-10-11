@@ -7,10 +7,10 @@ Em chào thầy,
 ## Danh sách thành viên nhóm
 | STT | Họ và tên | MSSV | Nhiệm vụ |
 | :---: | :--- | :--- | :--- |
-| 1 | Trâm Anh | 31251025969 | Chuẩn bị hình ảnh, âm thanh và dựng video |
+| 1 | Trâm Anh | 31251025969 | Thiết kế hình ảnh lá bài, code xử lý âm thanh (AudioManager), dựng video |
 | 2 | Gia Mẫn (Nhóm trưởng) | 31251021092 | Code luật chơi chính (GameManager, Card...), tổng hợp code |
 | 3 | Huỳnh Triết | 31251021291 | Code các class Bot (Bot khó, Bot dễ...) và Player |
-| 4 | Tấn Thịnh | 31251023212 | Code xử lý hiển thị giao diện, hiệu ứng đánh bài |
+| 4 | Tấn Thịnh | 31251023212 | Thiết kế hình ảnh bàn chơi & UI, code xử lý hiển thị giao diện, hiệu ứng đánh bài |
 
 ## Hướng dẫn chạy game
 1. Mở thư mục `gamedangcaptop1vietnam`.
